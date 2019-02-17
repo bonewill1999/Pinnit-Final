@@ -81,7 +81,7 @@ public class MapsView extends FragmentActivity implements OnMapReadyCallback, Go
     private ArrayList<Pin> modelPins = new ArrayList<Pin>();
     private ArrayList<Marker> modelMarkers = new ArrayList<Marker>();
     public int testInt = 50;
-    private Pin Placeholder = new Pin(currentDate, "ass", "ass", 40.2, -76.2, "civil", "rayan", 0,"as");
+    private Pin Placeholder = new Pin(currentDate, "a", "a", 40.2, -76.2, "civil", "rayan", 0,"a");
     private String viewSort = "All";
     private LatLng currentLatLng;
     private Marker placeHolderMarker;
@@ -115,7 +115,7 @@ public class MapsView extends FragmentActivity implements OnMapReadyCallback, Go
     protected void onCreate(Bundle savedInstanceState) {
 
 
-        markerProperty = new propertyValue("ass");
+        markerProperty = new propertyValue("a");
 
         overridePendingTransition(17432576,17432576 );
 
