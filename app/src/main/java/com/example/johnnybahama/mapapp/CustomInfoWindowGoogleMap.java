@@ -39,7 +39,6 @@ public class CustomInfoWindowGoogleMap implements GoogleMap.InfoWindowAdapter {
         details_tv.setText(marker.getSnippet());
 
         Pin infoPin = (Pin) marker.getTag();
-        String date = "POOPPPEEEEEDOOOPOEEE";
 //
 //        int imageId = context.getResources().getIdentifier(infoPin.getImage().toLowerCase(),
 //                "drawable", context.getPackageName());
