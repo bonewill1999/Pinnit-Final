@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "317135265603",
+    "firebase_url": "https://mapapp-36de7.firebaseio.com",
+    "project_id": "mapapp-36de7",
+    "storage_bucket": "mapapp-36de7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317135265603:android:76a9b4cc26955afa",
+        "android_client_info": {
+          "package_name": "com.example.johnnybahama.mapapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317135265603-keev1lkb1kh006ht4730g6uf98ma2f7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.johnnybahama.mapapp",
+            "certificate_hash": "a4af3dcc175e133c81dfa2a111df55b07fc3c529"
+          }
+        },
+        {
+          "client_id": "317135265603-t87pjc832qv7cj66ne1t72h8l5hs37t8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.johnnybahama.mapapp",
+            "certificate_hash": "95bb57c4cd315daa6805b5c31a72698e0cd6363c"
+          }
+        },
+        {
+          "client_id": "317135265603-spfeiq26rv0ch1aa5re50mjf2pl8vbv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZWuevCSHeqH1JB76O4hc7vcsq2i2cC8g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317135265603-spfeiq26rv0ch1aa5re50mjf2pl8vbv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
